@@ -1,8 +1,9 @@
 ### MOVIE SEARCHER ###
 
-Pour lancer le projet : 
 
-``` 
+
+```
+> npm install
 > npm start
 ```
 
